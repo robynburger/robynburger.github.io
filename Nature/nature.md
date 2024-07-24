@@ -1,4 +1,4 @@
-# This is where I will put fun pictures and stories of what I get to up outside!
+# I love going outside!!
 
 ![teton](images/teton.JPG)
 Owen Spalding route of the Grand Teton. 
