@@ -9,7 +9,7 @@ I am currently enjoying an REU at Montana State University, where my work involv
 
 # Things to Click On!
 * [TA Resources - CS2800](cs2800/cs2800.md)
-* [Academic Writing](ScientificWriting/writing.md)
+* [Academic Writing](AcademicWriting/writing.md)
 * [Nature](Nature/nature.md)
 
 # Panini
