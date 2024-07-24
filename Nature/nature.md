@@ -1,12 +1,10 @@
 # I love going outside!!
 
-![teton](images/teton.JPG)
+![teton](images/Teton.JPG)
 Owen Spalding route of the Grand Teton. 
 
-![tetonsummit](images/tetonsummit.JPG)
+![tetonsummit](images/TetonSummit.JPG)
 Views from the summit of the Grand! In Teton National Park.
-
-
 
 ![climbing](images/climbing.JPG)
 Trad climbing in Southwestern Montana with my REU buddies!
@@ -27,7 +25,7 @@ Views just before the summit of Flinch Peak in Glacier National Park.
 ![glacier2](images/glacier2.jpeg)
 Beautiful views on Dawson Pitamankan Loop in Glacier National Park. 
 
-![jtrocks](images/jtrocks.jpeg)
+![jtrocks](images/JTrocks.jpeg)
 Fun pile of rocks in Joshua Tree National Park.
 ![chrt](images/chrt.jpeg)
 California Hiking and Riding Trail, Joshua Tree National Park. 
