@@ -22,7 +22,6 @@ Rappelling off the GT ledge of the Gunks
 Views just before the summit of Flinch Peak in Glacier National Park. 
 
 ![glacier1](images/glacier1.jpeg)
-![glacier2](images/glacier2.jpeg)
 Beautiful views on Dawson Pitamankan Loop in Glacier National Park. 
 
 ![jtrocks](images/JTrocks.jpeg)
