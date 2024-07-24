@@ -8,14 +8,9 @@ I am currently enjoying an REU at Montana State University, where my work involv
 
 
 # Things to Click On!
-[TA Resources - CS2800](cs2800/cs2800.md)
-<div style="height: 30px;"></div>
-
-[Academic Writing](ScientificWriting/writing.md)
-<div style="height: 30px;"></div>
-
-[Nature](Nature/nature.md)
-<div style="height: 30px;"></div>
+* [TA Resources - CS2800](cs2800/cs2800.md)
+* [Academic Writing](ScientificWriting/writing.md)
+* [Nature](Nature/nature.md)
 
 # Panini
 Here is a photo of my cat, Panini:
