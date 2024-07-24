@@ -1,24 +1,25 @@
-title: "Robyn Burger's Site"
-description: "A description of your site."
-baseurl: ""
-url: "https://robynburger.github.io"
-
+title: Robyn Burger
+description: Hello! My name is Robyn. I am a rising senior at Cornell University, studying CS and math.
+# url: "https://robynburger.github.io"
+  plugins:
+- jekyll-remote-theme
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+logo: images/pfp.JPG
+# author:
+#   name: "Robyn Burger"
+#   avatar: "/IMG_2415.JPG"
+#   bio: "Hello! My name is Robyn. I am a rising senior at Cornell University, studying CS and math."
+#   email: "rlb388 at cornell . edu"
+#   LinkedIn: "robynburger"
+#   github: "robynburger"
 
-author:
-  name: "Robyn Burger"
-  avatar: "/IMG_2415.JPG"
-  bio: "Hello! My name is Robyn. I am a rising senior at Cornell University, studying CS and math."
-  email: "rlb388 at cornell . edu"
-  LinkedIn: "robynburger"
-  github: "robynburger"
+# social:
+#   - title: "GitHub"
+#     url: "https://github.com/robynburger"
+#     icon: "fab fa-github"
+#   - title: "LinkedIn"
+#     url: "https://www.linkedin.com/in/robyn-burger/"
+#     icon: "fab fa-linkedin"
 
-social:
-  - title: "GitHub"
-    url: "https://github.com/robynburger"
-    icon: "fab fa-github"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/robyn-burger/"
-    icon: "fab fa-linkedin"
-
-markdown: kramdown
+# markdown: kramdown
