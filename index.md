@@ -8,7 +8,7 @@ I am currently enjoying an REU at Montana State University, where my work involv
 
 
 # Things to Click On!
-[CS 2800 Section](cs2800.md)
+[CS 2800 Section](cs2800/cs2800.md)
 
 # Panini
 Here is a photo of my cat, Panini:
