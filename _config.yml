@@ -1,27 +1,24 @@
-title: Robyn Burger's Site
-description: >
-  A description of your site.
+title: "Robyn Burger's Site"
+description: "A description of your site."
 baseurl: ""
 url: "https://robynburger.github.io"
 
 theme: jekyll-theme-minimal
 
 author:
-  name: Robyn Burger
-  avatar: "/IMG_2415.JPG" # Ensure this image exists in your repository
+  name: "Robyn Burger"
+  avatar: "/IMG_2415.JPG"
   bio: "Hello! My name is Robyn. I am a rising senior at Cornell University, studying CS and math."
   email: "rlb388 at cornell . edu"
-  LinkedIn: robynburger
-  github: robynburger
+  LinkedIn: "robynburger"
+  github: "robynburger"
 
-# Social media links
 social:
-  - title: GitHub
-    url: https://github.com/robynburger
+  - title: "GitHub"
+    url: "https://github.com/robynburger"
     icon: "fab fa-github"
-  - title: Linkedin
-    url: https://www.linkedin.com/in/robyn-burger/
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/robyn-burger/"
     icon: "fab fa-linkedin"
 
-# Build settings
 markdown: kramdown
