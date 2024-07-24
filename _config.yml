@@ -6,3 +6,5 @@ plugins:
 - jekyll-remote-theme
 logo: images/pfp.JPG
 
+social:
+  linkedin: https://www.linkedin.com/in/robyn-burger/
