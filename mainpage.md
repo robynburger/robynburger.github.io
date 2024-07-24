@@ -9,3 +9,7 @@ I am currently enjoying an REU at Montana State University, where my work involv
 Here is a photo of my cat, Panini:
 
 ![Cat Photo](images/panini.jpeg)
+
+
+# Things to Click On!
+[CS 2800 Section](cs2800.md)
