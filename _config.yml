@@ -4,7 +4,7 @@ description: >
 baseurl: ""
 url: "https://robynburger.github.io"
 
-theme: jekyll-theme-minimal-mistakes
+theme: jekyll-theme-minimal
 
 author:
   name: Robyn Burger
