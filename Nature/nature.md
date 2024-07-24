@@ -24,7 +24,7 @@ Views just before the summit of Flinch Peak in Glacier National Park.
 ![glacier1](images/glacier1.jpeg)
 Beautiful views on Dawson Pitamankan Loop in Glacier National Park. 
 
-![jtrocks](images/JTrocks.jpeg)
+![jtrocks](images/JTrocks.JPG)
 Fun pile of rocks in Joshua Tree National Park.
 ![chrt](images/chrt.jpeg)
 California Hiking and Riding Trail, Joshua Tree National Park. 
