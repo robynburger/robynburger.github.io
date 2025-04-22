@@ -11,4 +11,4 @@ Thank you for visiting my website. I hope you have fun clicking on the various t
 
 # Panini
 Here is a photo of my cat, Panini:
-![Cat Photo](images/panini_squat.png)
+![Cat Photo](images/Panini_Glamour.png)
