@@ -1,6 +1,6 @@
 
 <!-- # About Me -->
-Hello! My name is Robyn. I'm currently a senior at Cornell, studying math and CS. I'm interested in CS theory. In the fall, I will continue at Cornell as a CS MS student. 
+Hello! My name is Robyn. I'm currently a senior at Cornell studying math and CS. I'm interested in CS theory. In the fall, I will continue at Cornell as a CS MS student. 
 
 Thank you for visiting my website. I hope you have fun clicking on the various things to click on!
 
