@@ -4,7 +4,6 @@
 # Allocation of Scientific Credit with Altruistic Players (12/24)
 
 Abstract:
-
 The process by which a researcher selects the focus of their studies can be impacted by both selfish and selfless motivations. The collective result of these motivations shapes the direction of the body of literature of scientific communities. In this work, we adapt Kleinberg and Oren's 2010 model of the allocation of credit in the scientific community to include the notion of altruism. We redefine each researcher's utility to be a linear combination of their own credit and the credits of their friends, weighted by an altruism parameter. Through this modification, we analyze the impact of altruism on the Price of Anarchy, demonstrating that altruistic behavior can lead to more socially optimal outcomes under certain conditions. Additionally, we note that researchers realistically do not have full information about which other researchers are working on certain projects. We thus explore learning dynamics using multiplicative weights, showing that altruistic researchers are more likely to converge to efficient allocations. These results suggest that altruistic motivations within scientific communities can enhance overall productivity.
 
 [Click to Download Paper ](files/Scientific_Credit_Altruism.pdf)
