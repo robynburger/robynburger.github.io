@@ -1,6 +1,14 @@
 <!-- # EssentCell: Determining Essential Evolutionary Relations from Noisy Single-Cell Data
 [Click to Download Poster](files/EssentCell.pdf)
 -->
+# Longest K-Repeated Subsequence Approximation Algorithm 
+
+Abstract: Finding repeated subsequences is a classical problem in computer science. Most variants of this problem rely on computing the longest common subsequence (LCS). Our interest is in the longest k-repeated subsequence
+problem (LkRS), which is the problem of returning the longest subsequence of a string w that is repeated k times. Our contribution is an O(n^2) algorithm that, for any k > 0, finds a k-repeated subsequence that is at least
+2/3 the optimal length. The algorithm relies our analysis of the inherent combinatorial properties of the setting. The following is a proof of one such property.
+
+[Click to Download Paper ](files/LKRSproof.pdf)
+
 # Allocation of Scientific Credit with Altruistic Players (12/24)
 
 Abstract:
