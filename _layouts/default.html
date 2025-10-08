@@ -52,7 +52,22 @@
       section a:hover {
         color: #5b3a08; /* Ensure body links stay the same color */
       }
+      .wrapper {
+        max-width: 1000px;   /* wider textbox */
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+      }
 
+      header {
+        flex: 0 0 250px;     /* sidebar width */
+        margin-right: 40px;
+      }
+
+      section {
+        flex: 1;             /* main content takes the rest */
+        min-width: 0;
+      }
       
     </style>
   </head>
