@@ -15,7 +15,7 @@
     <style>
       body {
         font-size: 1em;
-        background-color:#FFFFFF
+        background-color:#FFFFFF;
       }
 
       h1, h2, h3, h4, h5, h6 {
@@ -23,13 +23,11 @@
         font-size: 1.5em;
       }
 
-
       p, ul, ol {
         font-size: 1.2em;
       }
 
       a {
-        /* font-size: .9em; */
         color: #5b3a08;
       }
       .view a:hover {
@@ -41,7 +39,7 @@
         height: auto;
       }
 
-      .custom-name a{
+      .custom-name a {
         font-size: 2em;
         color: #165430;
       }
@@ -49,28 +47,49 @@
       .custom-name a:hover {
         color: #207845; 
       }
+
       section a:hover {
-        color: #5b3a08; /* Ensure body links stay the same color */
+        color: #5b3a08;
       }
+
+      /* ===== Layout Fix: Wider content column ===== */
       .wrapper {
-        max-width: 1000px;   /* wider textbox */
+        display: grid;
+        grid-template-columns: 220px minmax(0, 1fr); /* sidebar | main content */
+        gap: 60px; /* space between sidebar and content */
+        max-width: 1200px;
         margin: 0 auto;
-        display: flex;
-        flex-direction: row;
+        padding: 0 16px;
       }
 
       header {
-        flex: 0 0 250px;     /* sidebar width */
-        margin-right: 40px;
+        position: static !important; /* override theme’s fixed layout */
+        float: none !important;
       }
 
       section {
-        flex: 1;             /* main content takes the rest */
-        min-width: 0;
+        min-width: 0; /* prevents overflow clipping */
       }
-      
+
+      footer {
+        grid-column: 1 / -1; /* spans both columns */
+        text-align: center;
+        margin-top: 40px;
+      }
+
+      /* Responsive stacking on small screens */
+      @media (max-width: 700px) {
+        .wrapper {
+          grid-template-columns: 1fr;
+          gap: 20px;
+        }
+        header {
+          text-align: center;
+        }
+      }
     </style>
   </head>
+
   <body>
     <div class="wrapper">
       <header>
@@ -91,8 +110,8 @@
         {% endif %}
 
         <p class="view"><a href="https://www.linkedin.com/in/robyn-burger/">LinkedIn</a></p>
-
         <p class="view"><a href="RobynBurgerMS_CV.pdf" target="_blank">CV</a></p>
+
         {% if site.show_downloads %}
           <ul class="downloads">
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -101,16 +120,16 @@
           </ul>
         {% endif %}
       </header>
+
       <section>
         {{ content }}
       </section>
+
       <footer>
-        <!-- {% if site.github.is_project_page %}
-          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %} -->
         <p><small>Website adapted from theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
+
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   </body>
 </html>
