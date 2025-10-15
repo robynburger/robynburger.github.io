@@ -9,8 +9,6 @@ In May 2025, I graduated Cornell University with majors in mathematics and compu
 <span style="font-size:0.95em; color:inherit;">Adiesha Liyanage, <strong>Robyn Burger</strong>, Allison Shi, Braeden Sopp, Binhai Zhu, Brendan Mumey</span><br>
 <span style="font-size:0.95em; color:inherit;">IEEE/ACM Transactions on Computational Biology and Bioinformatics 2026</span>
 
-
-
 # Teaching Experiences
 * CS 4820: Introduction to Algorithms (Fall '24)
 * CS 2800: Discrete Structures (Fall '23, '25 and Spring '23, '24, '25)
