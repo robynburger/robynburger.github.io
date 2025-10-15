@@ -3,7 +3,7 @@
 Hello! My name is Robyn. I am a first year [M.S.](https://www.cs.cornell.edu/ms) student at Cornell University. I just graduated from Cornell University with majors in mathematics and computer science. 
 
 # Publications 
-<span style="color:#FFA500;">EssentCell: Discovering Essential Evolutionary Relations in Noisy Single-Cell Data</span> [<a href="https://www.biorxiv.org/content/biorxiv/early/2025/04/18/2025.04.12.648524.full.pdf">arxiv</a>]<br>
+<strong>EssentCell: Discovering Essential Evolutionary Relations in Noisy Single-Cell Data </strong>[<a href="https://www.biorxiv.org/content/biorxiv/early/2025/04/18/2025.04.12.648524.full.pdf">arxiv</a>]<br>
 Adiesha Liyanage, <strong>Robyn Burger</strong>, Allison Shi, Braeden Sopp, Binhai Zhu, Brendan Mumey<br>
 <span style="color:#0047AB;">IEEE/ACM Transactions on Computational Biology and Bioinformatics</span>
 
