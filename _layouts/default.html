@@ -54,12 +54,13 @@
 
       .wrapper{
         display:grid;
-        grid-template-columns: 320px minmax(0, 1fr);
+        grid-template-columns: 320px 960px;  /* fixed sidebar + fixed content width */
         gap:96px;
-        width: min(95vw, 1700px) !important;  /* <- this beats the theme */
-        max-width: none !important;           /* <- remove the 800px cap */
+        width: min(95vw, 1700px) !important;
+        max-width: none !important;
         margin:0 auto;
         padding:0 24px;
+        justify-content: center;             /* centers the 2-column block */
       }
 
 
@@ -68,7 +69,7 @@
         float: none !important;
       }
 
-      section{ min-width:0; max-width:none !important; }
+      section{ min-width:0; max-width:960px; width:100%; }
 
 
       footer {
