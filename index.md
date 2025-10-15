@@ -9,11 +9,16 @@ Adiesha Liyanage, <strong>Robyn Burger</strong>, Allison Shi, Braeden Sopp, Binh
 
 
 
-# Things to Click On!
-* [TA Resources - CS 2800](cs2800/cs2800.md)
+# Teaching Experiences
+I have been fortunate to serve as a TA for the following courses at Cornell:
+* CS 4820: Introduction to Algorithms 
+* CS 2800: Discrete Structures 
+<!-- [See here for resou](cs2800/cs2800.md) -->
+
+# Other Links
 * [Academic Writing](AcademicWriting/writing.md)
 * [Nature](Nature/nature.md)
 
-# Panini
+<!-- # Panini
 Here is a photo of my cat, Panini:
-<img src="images/Panini_Glamour.png" alt="Cat Photo" width="400">
+<img src="images/Panini_Glamour.png" alt="Cat Photo" width="400"> -->
