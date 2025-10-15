@@ -12,10 +12,9 @@ In May 2025, I graduated Cornell University with majors in mathematics and compu
 
 
 # Teaching Experiences
-I have been fortunate to serve as a TA for the following courses at Cornell:
-* CS 4820: Introduction to Algorithms 
-* CS 2800: Discrete Structures 
-<!-- [See here for resou](cs2800/cs2800.md) -->
+* CS 4820: Introduction to Algorithms (Fall '24)
+* CS 2800: Discrete Structures (Fall '23, '25 and Spring '23, '24, '25)
+[Some resources I have compiled as a TA](cs2800/cs2800.md)
 
 # Other Links
 * [Academic Writing](AcademicWriting/writing.md)
