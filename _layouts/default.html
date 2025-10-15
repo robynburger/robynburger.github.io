@@ -23,69 +23,45 @@
         font-size: 1.5em;
       }
 
-      p, ul, ol {
-        font-size: 1.2em;
+      p, ul, ol { font-size: 1.2em; }
+
+      a { color: #5b3a08; }
+      .view a:hover { color: #5b3a08; }
+
+      img { width: 100%; height: auto; }
+
+      .custom-name a { font-size: 2em; color: #165430; }
+      .custom-name a:hover { color: #207845; }
+
+      section a:hover { color: #5b3a08; }
+
+      /* ===== Wider layout (sidebar + roomy main column) ===== */
+      .wrapper{
+        display:grid;
+        grid-template-columns: 280px minmax(0,1fr); /* wider sidebar | wide content */
+        gap:80px;                /* space between columns */
+        max-width:1400px;        /* overall page width */
+        margin:0 auto;
+        padding:0 24px;
       }
 
-      a {
-        color: #5b3a08;
-      }
-      .view a:hover {
-        color: #5b3a08;
+      /* undo any theme floats/fixed positioning */
+      header{ position:static !important; float:none !important; width:100%; }
+
+      /* keep content readable but wide */
+      section{ min-width:0; max-width:950px; }
+
+      footer{
+        grid-column:1 / -1;
+        text-align:center;
+        margin-top:50px;
       }
 
-      img {
-        width: 100%;
-        height: auto;
-      }
-
-      .custom-name a {
-        font-size: 2em;
-        color: #165430;
-      }
-
-      .custom-name a:hover {
-        color: #207845; 
-      }
-
-      section a:hover {
-        color: #5b3a08;
-      }
-
-      /* ===== Layout Fix: Wider content column ===== */
-      .wrapper {
-        display: grid;
-        grid-template-columns: 220px minmax(0, 1fr); /* sidebar | main content */
-        gap: 60px; /* space between sidebar and content */
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 0 16px;
-      }
-
-      header {
-        position: static !important; /* override theme’s fixed layout */
-        float: none !important;
-      }
-
-      section {
-        min-width: 0; /* prevents overflow clipping */
-      }
-
-      footer {
-        grid-column: 1 / -1; /* spans both columns */
-        text-align: center;
-        margin-top: 40px;
-      }
-
-      /* Responsive stacking on small screens */
-      @media (max-width: 700px) {
-        .wrapper {
-          grid-template-columns: 1fr;
-          gap: 20px;
-        }
-        header {
-          text-align: center;
-        }
+      /* Responsive: stack on small screens */
+      @media (max-width: 800px){
+        .wrapper{ grid-template-columns:1fr; gap:20px; padding:0 16px; }
+        header{ text-align:center; }
+        section{ max-width:100%; }
       }
     </style>
   </head>
