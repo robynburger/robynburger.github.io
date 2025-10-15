@@ -4,10 +4,9 @@ Hello! My name is Robyn. I am a first year [M.S.](https://www.cs.cornell.edu/ms)
 
 # Publications 
 
-EssentCell: Discovering Essential Evolutionary Relations in Noisy Single-Cell Data [arxiv](https://www.biorxiv.org/content/biorxiv/early/2025/04/18/2025.04.12.648524.full.pdf)
+<span style="color:##FFA500;">EssentCell: Discovering Essential Evolutionary Relations in Noisy Single-Cell Data [arxiv](https://www.biorxiv.org/content/biorxiv/early/2025/04/18/2025.04.12.648524.full.pdf)
 Adiesha Liyanage, **Robyn Burger**, Allison Shi, Braeden Sopp, Binhai Zhu, Brendan Mumey
-IEEE/ACM Transactions on Computational Biology and Bioinformatics 
-
+<span style="color:#0047AB;">IEEE/ACM Transactions on Computational Biology and Bioinformatics</span>
 
 
 # Things to Click On!
