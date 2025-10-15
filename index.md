@@ -1,6 +1,6 @@
 
 <!-- # About Me -->
-Hello! My name is Robyn. I am a first year [M.S.](https://www.cs.cornell.edu/ms) student at Cornell University where I am fortunate to be advised by Paul G&#246;lz and Sid Banerjee. 
+Hello! My name is Robyn. I am a first year [M.S.](https://www.cs.cornell.edu/ms) student at Cornell University where I am fortunate to be advised by [Paul G&#246;lz](https://paulgoelz.de/) and [Sid Banerjee](https://sidbanerjee.orie.cornell.edu/). 
 
 In May 2025, I graduated Cornell University with majors in mathematics and computer science. 
 
