@@ -15,12 +15,13 @@
     <style>
       body {
         font-size: 1em;
-        background-color:#FFFFFF;
+        background-color: #FFFFFF;
+        overflow-x: hidden;
       }
 
       h1, h2, h3, h4, h5, h6 {
         color: #207845;
-        margin-top: 1.5em; 
+        margin-top: 1.5em;
         font-size: 1.5em;
       }
 
@@ -31,12 +32,13 @@
       a {
         color: #5b3a08;
       }
+
       .view a:hover {
         color: #5b3a08;
       }
 
       img {
-        width: 100%;
+        max-width: 100%;
         height: auto;
       }
 
@@ -46,47 +48,53 @@
       }
 
       .custom-name a:hover {
-        color: #207845; 
+        color: #207845;
       }
 
       section a:hover {
         color: #5b3a08;
       }
 
-      .wrapper{
-        display:grid;
-        grid-template-columns: 320px 960px;  /* fixed sidebar + fixed content width */
-        gap:96px;
-        width: min(95vw, 1700px) !important;
-        max-width: none !important;
-        margin:0 auto;
-        padding:0 24px;
-        justify-content: center;             /* centers the 2-column block */
+      .wrapper {
+        display: grid;
+        grid-template-columns: 320px 1fr;
+        gap: 96px;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 24px;
       }
-
 
       header {
-        position: static !important; /* override theme’s fixed layout */
-        float: none !important;
+        position: static;
+        float: none;
       }
 
-      section{ min-width:0; max-width:960px; width:100%; }
-
+      section {
+        min-width: 0;
+        width: 100%;
+      }
 
       footer {
-        grid-column: 1 / -1; /* spans both columns */
+        grid-column: 1 / -1;
         text-align: center;
         margin-top: 40px;
       }
 
-      /* Responsive stacking on small screens */
       @media (max-width: 700px) {
         .wrapper {
-          grid-template-columns: 1fr;
-          gap: 20px;
+          display: block;
+          width: 100%;
+          padding: 0 16px;
         }
-        header {
+
+        header, section {
+          width: 100%;
           text-align: center;
+        }
+
+        img {
+          max-width: 100%;
+          height: auto;
         }
       }
     </style>
