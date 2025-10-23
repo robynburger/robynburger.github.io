@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 title: Robyn Burger
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
