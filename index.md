@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+
+<!-- bundle install -->
+<!-- bundle exec jekyll serve -->
+
 <!-- # About Me -->
 Hello! My name is Robyn. I am a first year [M.S.](https://www.cs.cornell.edu/ms) student at Cornell University where I am fortunate to be advised by [Paul G&#246;lz](https://paulgoelz.de/) and [Sid Banerjee](https://sidbanerjee.orie.cornell.edu/). My research is at the intersection of theoretical computer science and ORIE. These days, I am most interested in algorithmic game theory, particularly, social choice. 
 
@@ -22,8 +26,19 @@ In May, I graduated Cornell University with majors in mathematics and computer s
 
 
 # Teaching Experiences
-* CS 4820: Introduction to Algorithms (Fall '24)
-* CS 2800: Discrete Structures (Fall '23, '25 and Spring '23, '24, '25)
+Here are the Cornell courses for which I have served as a TA:
+* CS 4820: Introduction to Analysis of Algorithms _(Fall '24)_
+* CS 2800: Discrete Structures _(Fall '23, '25 and Spring '23, '24, '25)_
+
+I've also had the privilege of teaching several courses for [Cornell Outdoor Education](https://scl.cornell.edu/coe)!
+* PE 1601: Backcountry Cooking _(Spring '24)_
+* PE 1630: Caving _(Spring '24)_
+* PE 1640: Basic Rock Climbing _(Spring '24, '25 and Fall '24)_
+* PE 1641: Basic Rock Climbing - Closing the Adventure Gap _(Fall '24)_
+* PE 1642: Women's Basic Rock Climbing _(Fall '23, '25)_
+* PE 1647: Sport Lead Climbing _(Spring '25)_
+* PE 1657: Tree Climbing _(Fall '25)_
+
 
 # Other Links
 * [Academic Writing](AcademicWriting/writing.md)
