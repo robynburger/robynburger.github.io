@@ -29,15 +29,17 @@ In May, I graduated Cornell University with majors in mathematics and computer s
 Here are the Cornell courses for which I have served as a TA:
 * CS 4820: Introduction to Analysis of Algorithms _(Fall '24)_
 * CS 2800: Discrete Structures _(Fall '23, '25 and Spring '23, '24, '25)_
+* CS 2110: Introduction to Object Oriented Programming _(Spring '26)_
 
 I've also had the privilege of teaching several courses for [Cornell Outdoor Education](https://scl.cornell.edu/coe)!
 * PE 1601: Backcountry Cooking _(Spring '24)_
 * PE 1630: Caving _(Spring '24)_
-* PE 1640: Basic Rock Climbing _(Spring '24, '25 and Fall '24)_
+* PE 1640: Basic Rock Climbing _(Spring '24, '25, '26 and Fall '24, '25)_
 * PE 1641: Basic Rock Climbing - Closing the Adventure Gap _(Fall '24)_
 * PE 1642: Women's Basic Rock Climbing _(Fall '23, '25)_
 * PE 1647: Sport Lead Climbing _(Spring '25)_
 * PE 1657: Tree Climbing _(Fall '25)_
+* PE 1645: Southwest Climbing Expedition: Red Rock, NV _(Spring '26)_
 
 
 # Other Links
